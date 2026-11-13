@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/banners/edge-light.png" width="100%" alt="theoros-edge">
 </picture>
 
-<p><a href="LICENSE"><img src="https://img.shields.io/badge/license-source--available%201.0-FF4B1F?style=flat-square&labelColor=11151C" alt="license: source-available 1.0"></a> <img src="https://img.shields.io/badge/status-pre--release-8B929D?style=flat-square&labelColor=11151C" alt="status: pre-release"> <a href="https://github.com/theoros-space"><img src="https://img.shields.io/badge/part-02%20of%2006-3E7BFA?style=flat-square&labelColor=11151C" alt="part: 02 of 06"></a></p>
+<p><a href="LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/license-source-available-1-0-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/license-source-available-1-0-light.png" height="31" alt="license: source-available 1.0"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/status-pre-release-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/status-pre-release-light.png" height="31" alt="status: pre-release"></picture> <a href="https://github.com/theoros-space"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/part-02-of-06-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/part-02-of-06-light.png" height="31" alt="part: 02 of 06"></picture></a></p>
 
 > [!NOTE]
 > **Status:** Pre-release. The repository is public so partners and reviewers can follow the work. Source code lands here from December 2026.
@@ -15,6 +15,12 @@ The code that runs on the satellite. One portable C runtime that runs on any
 flight computer, plus exports for the AI processors flying today. The
 portable runtime is the reference: every other target must reproduce its
 outputs bit for bit on the verification set.
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/stats/targets-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/stats/targets-light.png" width="32%" alt="targets"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/stats/flight-budget-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/stats/flight-budget-light.png" width="32%" alt="flight budget"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/stats/equivalence-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/stats/equivalence-light.png" width="32%" alt="equivalence"></picture>
+</p>
 
 ## Where it fits
 
@@ -87,8 +93,8 @@ Theoros: licensing@theoros.space. See [which license applies where](https://gith
 
 <p align="center">
   <a href="https://github.com/theoros-space"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-paper.svg">
-    <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-ink.svg" width="28" alt="Theoros">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-signal.svg">
+    <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-signal.svg" width="28" alt="Theoros">
   </picture></a>
   <br>
   <sub>Theoros &nbsp;·&nbsp; Onboard AI for Earth observation &nbsp;·&nbsp; Baku and Helsinki &nbsp;·&nbsp; <a href="https://theoros.space">theoros.space</a></sub>
